@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry excluding="com/techD/CreateUser.java" kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/ext/activation.jar"/>
+	<classpathentry kind="lib" path="D:/ext/commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/ext/log4j-1.2.8.jar"/>
+	<classpathentry kind="lib" path="D:/ext/spring.jar"/>
+	<classpathentry kind="lib" path="D:/ext/wlfullclient.jar"/>
+	<classpathentry kind="lib" path="D:/jrf-api.jar"/>
+	<classpathentry kind="lib" path="D:/client/oimclient.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SMuchinthala/Downloads/ojdbc6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
